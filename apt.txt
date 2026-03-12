@@ -2,3 +2,6 @@ povray
 wget
 unzip
 libxc-dev
+build-essential
+gfortran
+libomp-dev

@@ -1,2 +1,4 @@
 povray
 wget
+unzip
+libxc-dev

@@ -8,7 +8,7 @@ dependencies:
   - scikit-optimize=0.9.0
   - scikit-learn=1.4.2
   - scipy=1.11.4
-  - wulffpack=1.4
+  - wulffpack=1.5
   - matplotlib=3.8.4
   - pyscf=2.4.0
   - geometric=1.0.2
@@ -17,5 +17,5 @@ dependencies:
   - mkl-devel=2024.0
   - pip=23.3
   - pip:
-      - aalto-boss==0.2.0
+      - aalto-boss==1.14.1
       - tblite==0.4.0

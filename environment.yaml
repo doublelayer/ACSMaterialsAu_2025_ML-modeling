@@ -19,3 +19,5 @@ dependencies:
   - pip:
       - aalto-boss==1.14.1
       - tblite==0.4.0
+      - ase-gpatom==1.0.0
+      - fairchem-core==2.17.0

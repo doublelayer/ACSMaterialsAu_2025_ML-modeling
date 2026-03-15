@@ -3,11 +3,11 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11.7
-  - numpy=1.26.4
-  - ase=3.22.1
+  - numpy=2.0.2
+  - ase=3.26.0
   - scikit-optimize=0.9.0
   - scikit-learn=1.4.2
-  - scipy=1.11.4
+  - scipy=1.15.2
   - wulffpack=1.5
   - matplotlib=3.8.4
   - pyscf=2.4.0

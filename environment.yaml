@@ -13,8 +13,6 @@ dependencies:
   - pyscf=2.4.0
   - geometric=1.0.2
   - libxc
-  - mkl=2024.0
-  - mkl-devel=2024.0
   - pytorch=2.10.0
   - pip=23.3
   - pip:

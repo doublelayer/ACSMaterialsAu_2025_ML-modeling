@@ -15,7 +15,10 @@ dependencies:
   - libxc
   - mkl=2024.0
   - mkl-devel=2024.0
+  - pytorch-cpu=2.10.0
   - pip=23.3
   - pip:
       - aalto-boss==1.14.1
       - tblite==0.4.0
+      - mace-torch==0.3.15
+

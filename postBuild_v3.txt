@@ -1,0 +1,8 @@
+#!/bin/bash
+set -e
+
+wget 'https://zenodo.org/api/records/13336814/files-archive' -O cider_functionals.zip
+unzip -o cider_functionals.zip
+
+mkdir -p /home/jovyan/.gpaw
+yes y | gpaw install-data /home/jovyan/.gpaw

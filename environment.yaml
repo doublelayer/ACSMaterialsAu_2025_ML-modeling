@@ -2,8 +2,9 @@ name: binder-env
 channels:
   - conda-forge
 dependencies:
-  - python=3.11.7
+  - python=3.11
   - numpy=1.26.4
+  - scipy=1.11.4
   - ase=3.22.1
   - imageio=2.37.0
   - scikit-optimize=0.9.0
@@ -17,7 +18,8 @@ dependencies:
   - pytorch=2.10.0
   - pip=23.3
   - pip:
-      - aalto-boss==1.14.1
       - tblite==0.4.0
+      - ciderpress==0.4.0
+      - gpaw==25.7.0
+      - aalto-boss==1.14.1
       - mace-torch==0.3.15
-

@@ -22,11 +22,11 @@ Alternatively, run locally using the provided environment files.
 
 ## Repository structure
 
-notebooks/          # tutorial notebooks
-apt.txt             # system dependencies
-environment.yaml    # Python environment
-postBuild           # Binder setup script
-LICENCE             # licence
+- notebooks/          # tutorial notebooks
+- apt.txt             # system dependencies
+- environment.yaml    # Python environment
+- postBuild           # Binder setup script
+- LICENCE             # licence
 
 ## Licence
 

@@ -1,7 +1,10 @@
-povray
+libxc-dev
+libopenblas-dev
+libfftw3-dev
+gfortran
 wget
 unzip
-libxc-dev
+povray
 build-essential
 gfortran
 libomp-dev

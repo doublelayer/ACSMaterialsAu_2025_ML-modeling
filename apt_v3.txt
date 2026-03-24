@@ -1,6 +1,0 @@
-libxc-dev
-libopenblas-dev
-libfftw3-dev
-gfortran
-wget
-unzip

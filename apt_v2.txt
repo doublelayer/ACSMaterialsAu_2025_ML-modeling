@@ -1,3 +1,0 @@
-povray
-wget
-unzip

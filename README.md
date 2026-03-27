@@ -32,3 +32,7 @@ Alternatively, run locally using the provided environment files.
 
 MIT License  
 Copyright (c) 2025 Double Layer Research Hub
+
+## Acknowledgements
+
+This work was supported by the Estonian Ministry of Education and Research (TK210), the Estonian Research Council (grant STP52, grant PRG3174), the University of Tartu Foundation through the InFTF Scholarship awarded to B.I.S.R.L, and the Project No. 1.1.1.8/1/24/I/003 “Strengthening the Research and Development Capacity of Doctoral Studies at the University of Latvia in the Fields of Smart Specialisation”. Results were obtained using the High Performance Computing Center of the University of Tartu. This article and tutorials are based upon work from COST Action NanoCatML.
